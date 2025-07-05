@@ -1,0 +1,12 @@
+//donate json
+{
+  "name": "Gown",
+  "price": 0,
+  "size": "M",
+  "image": "http://image.com/dress.jpg",
+  "categoryName": "Traditional"
+}
+  "name": "Gown",
+  "price": 1500,
+  "size": "M",
+  "categoryName": "Indo-Western"
