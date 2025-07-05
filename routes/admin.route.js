@@ -6,7 +6,7 @@ import { getPendingDonations } from "../controllers/admin.controller.js";
 import upload from "../middlewares/upload.js";
 import { adminLogout } from "../controllers/admin.controller.js";
 import multer from "multer";
-import auth from "../middleware/auth.js";
+import adminAuth from "../middleware/adminauth.js";
 
 const router = express.Router();
 
